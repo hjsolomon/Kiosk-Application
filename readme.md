@@ -1,4 +1,4 @@
-# Softeng Starter Code Repo
+# Brigham and Women's Hospital Kiosk Application
 This document contains an outline of 
 the entire repo, the tooling in the 
 repo, and explanations of the provided
