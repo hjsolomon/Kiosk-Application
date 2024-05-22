@@ -10,6 +10,18 @@ and the reasoning for the tooling it has.
 
 ## Screenshots
 
+![image](https://github.com/hjsolomon/Kiosk-Application/assets/144631028/c19e6a7d-dc1e-4682-b590-f97b6752a2be)
+
+![image](https://github.com/hjsolomon/Kiosk-Application/assets/144631028/e2eb6e94-30df-4214-a4fe-85e70e3535bd)
+
+![image](https://github.com/hjsolomon/Kiosk-Application/assets/144631028/eb789cff-32b2-4187-a510-450bf216f9b4)
+
+![image](https://github.com/hjsolomon/Kiosk-Application/assets/144631028/2ed0ae9e-1b43-4ac5-9261-7b354ba5adcd)
+
+![image](https://github.com/hjsolomon/Kiosk-Application/assets/144631028/31d24230-a393-4c28-8452-b1299fcb4f17)
+
+
+
 <!-- TOC -->
 * [Brigham and Women's Hospital Kiosk Application](#brigham-and-women's-hospital-kiosk-application)
   * [WebStorm Run Configurations](#webstorm-run-configurations)
