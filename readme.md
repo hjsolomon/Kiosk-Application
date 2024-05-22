@@ -8,8 +8,10 @@ Each "package" in this repo also contains a
 readme, providing further details on its tooling,
 and the reasoning for the tooling it has.
 
+## Screenshots
+
 <!-- TOC -->
-* [Softeng Starter Code Repo](#softeng-starter-code-repo)
+* [Brigham and Women's Hospital Kiosk Application](#brigham-and-women's-hospital-kiosk-application)
   * [WebStorm Run Configurations](#webstorm-run-configurations)
   * [Installation and Useful Scripts](#installation-and-useful-scripts)
   * [Design Pattern](#design-pattern)
